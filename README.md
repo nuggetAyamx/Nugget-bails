@@ -1,7 +1,7 @@
 <div align='center'>GrenXKontlV2</div>
 
 <p align="center">
-  <img src="https://ganga--link--ghhzdp9sv8hk.code.run/i/zpmk7pic40.jpg" width="180" alt="GrenXKontlV2"/>
+  <img src="(https://files.catbox.moe/awpgjl.jpg)" width="180" alt="Lawk Beta"/>
 </p>
 
 ---
