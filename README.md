@@ -1,4 +1,4 @@
-<div align='center'>GrenXKontlV2</div>
+<div align='center'>Nugget - Lawk</div>
 
 <p align="center">
   <img src="[https://files.catbox.moe/awpgjl.jpg]" width="180" alt="Lawk Beta"/>
